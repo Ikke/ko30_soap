@@ -14,3 +14,6 @@ method call `foo_doSomething(argument1, argument2)` to
 `foo/doSomething/argument1/argument2`
 
 
+# Requirements
+
+It uses SoapServer to handle the SOAP requests. You might need to install php-soap using your favorite package manager.
